@@ -1,1 +1,1 @@
-the application is in src directory with name Main.java
+the application is in "src/main/java/org/example" directory with name Main.java
